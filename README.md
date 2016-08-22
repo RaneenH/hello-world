@@ -1,2 +1,2 @@
 # hello-world
-There will be more info put here once soon (hopefully).
+There will be more info put here soon (hopefully).

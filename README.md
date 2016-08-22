@@ -1,2 +1,3 @@
 # hello-world
-There will be more info put here soon (hopefully).
+Just learning how to use this site.
+You can ignore.
